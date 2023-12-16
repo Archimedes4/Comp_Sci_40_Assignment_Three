@@ -1,3 +1,5 @@
+http://mrsklatimer.weebly.com/java-assignment-3.html
+Computer Science 40S Saint Pauls High School
 # Java Assignment 3 Loops
 Use the image below as a guideline but make the following changes.
 
